@@ -1,0 +1,21 @@
+{
+  "message": "Hello test automation",
+  "auto_type": "API",
+  "courses": [
+    {
+      "title": "Selenium",
+      "price": 50,
+      "details": {
+        "site": "http://tutorial_site.com"
+      }
+    },
+    {
+      "title": "Cypress",
+      "price": 60
+    },
+    {
+      "title": "Playwright",
+      "price": 100
+    }
+  ]
+}
